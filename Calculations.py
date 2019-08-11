@@ -2,8 +2,8 @@
 def add(x, y):
     z = x + y
     print(z)
-# Subract two number to get output
-def subract(x, y):
+# Subtract two number to get output
+def subtract(x, y):
     z = x - y
     print(z)
 # Multiply two numbers to get output
